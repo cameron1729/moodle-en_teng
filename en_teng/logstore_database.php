@@ -1,0 +1,58 @@
+<?php
+// This file is part of Moodle - http://moodle.org/.
+//
+// Moodle is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
+//
+// Moodle is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+//
+// You should have received a copy of the GNU General Public License
+// along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+//
+// Strings for language 'en_teng'.
+defined('MOODLE_INTERNAL') || die();
+$string['buffersize'] = ' ';
+$string['buffersize_help'] = '            ';
+$string['conectexception'] = '    ';
+$string['create'] = '';
+$string['databasesettings'] = ' ';
+$string['databasesettings_help'] = '       {$a}';
+$string['databasepersist'] = '  ';
+$string['databaseschema'] = ' ';
+$string['databasecollation'] = ' ';
+$string['databasehandlesoptions'] = '  ';
+$string['databasehandlesoptions_help'] = '       ';
+$string['databasetable'] = ' ';
+$string['databasetable_help'] = '                      ';
+$string['includeactions'] = '    ';
+$string['includelevels'] = '     ';
+$string['filters'] = ' ';
+$string['filters_help'] = '        ';
+$string['jsonformat'] = ' ';
+$string['jsonformat_desc'] = '             ';
+$string['logguests'] = '  ';
+$string['other'] = '';
+$string['participating'] = '';
+$string['pluginname'] = '  ';
+$string['pluginname_desc'] = '           ';
+$string['privacy:metadata:log'] = '    ';
+$string['privacy:metadata:log:anonymous'] = '      ';
+$string['privacy:metadata:log:eventname'] = '  ';
+$string['privacy:metadata:log:ip'] = '         ';
+$string['privacy:metadata:log:origin'] = '    ';
+$string['privacy:metadata:log:other'] = '    ';
+$string['privacy:metadata:log:realuserid'] = '            ';
+$string['privacy:metadata:log:relateduserid'] = '        ';
+$string['privacy:metadata:log:timecreated'] = '     ';
+$string['privacy:metadata:log:userid'] = '        ';
+$string['read'] = '';
+$string['tablenotfound'] = '    ';
+$string['teaching'] = '';
+$string['testsettings'] = ' ';
+$string['testingsettings'] = '  …';
+$string['update'] = '';
