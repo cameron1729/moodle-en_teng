@@ -1,0 +1,188 @@
+<?php
+// This file is part of Moodle - http://moodle.org/.
+//
+// Moodle is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
+//
+// Moodle is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+//
+// You should have received a copy of the GNU General Public License
+// along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+//
+// Strings for language 'en_teng'.
+defined('MOODLE_INTERNAL') || die();
+$string['acceptanceacknowledgement'] = '                ';
+$string['acceptancenote'] = '';
+$string['acceptancepolicies'] = '';
+$string['acceptancessavedsucessfully'] = '     ';
+$string['acceptancestatusaccepted'] = '';
+$string['acceptancestatusacceptedbehalf'] = '   ';
+$string['acceptancestatusdeclined'] = '';
+$string['acceptancestatusdeclinedbehalf'] = '   ';
+$string['acceptancestatusoverall'] = '';
+$string['acceptancestatuspartial'] = ' ';
+$string['acceptancestatuspending'] = '';
+$string['acceptanceusers'] = '';
+$string['actions'] = '';
+$string['activate'] = '   ';
+$string['activating'] = '  ';
+$string['activateconfirm'] = '<p>      <em>\'{$a->name}\'</em>     <em>\'{$a->revision}\'</em>   </p><p>                  </p>';
+$string['activateconfirmyes'] = '';
+$string['agreepolicies'] = '     ';
+$string['backtoprevious'] = '    ';
+$string['backtotop'] = '  ';
+$string['cachedef_policy_optional'] = '       ';
+$string['consentbulk'] = '';
+$string['consentpagetitle'] = '';
+$string['contactdpo'] = '          ';
+$string['dataproc'] = '  ';
+$string['declineacknowledgement'] = '                ';
+$string['declinethepolicy'] = '  ';
+$string['deleting'] = '  ';
+$string['deleteconfirm'] = '<p>        <em>\'{$a->name}\'</em>?</p><p>     </p>';
+$string['editingpolicydocument'] = ' ';
+$string['errorpolicyversioncompulsory'] = '    ';
+$string['errorpolicyversionnotfound'] = '       ';
+$string['errorsaveasdraft'] = '       ';
+$string['errorusercantviewpolicyversion'] = '        ';
+$string['event_acceptance_created'] = '   ';
+$string['event_acceptance_updated'] = '   ';
+$string['filtercapabilityno'] = '   ';
+$string['filtercapabilityyes'] = '  ';
+$string['filterrevision'] = ' {$a}';
+$string['filterrevisionstatus'] = ' {$a->name} ({$a->status})';
+$string['filterrole'] = ' {$a}';
+$string['filters'] = '';
+$string['filterstatusdeclined'] = ' ';
+$string['filterstatuspending'] = ' ';
+$string['filterstatusyes'] = ' ';
+$string['filterplaceholder'] = '    ';
+$string['filterpolicy'] = ' {$a}';
+$string['guestconsent:continue'] = '';
+$string['guestconsentmessage'] = '          ';
+$string['iagree'] = '    {$a}.';
+$string['idontagree'] = '     {$a}.';
+$string['iagreetothepolicy'] = ' ';
+$string['inactivate'] = '   ';
+$string['inactivating'] = '  ';
+$string['inactivatingconfirm'] = '<p>      <em>\'{$a->name}\'</em>  <em>\'{$a->revision}\'</em>.</p>';
+$string['inactivatingconfirmyes'] = '';
+$string['invalidversionid'] = '      ';
+$string['irevokethepolicy'] = '  ';
+$string['listactivepolicies'] = '   ';
+$string['minorchange'] = ' ';
+$string['minorchangeinfo'] = '                             ';
+$string['managepolicies'] = ' ';
+$string['movedown'] = ' ';
+$string['moveup'] = ' ';
+$string['mustagreetocontinue'] = '        ';
+$string['newpolicy'] = ' ';
+$string['newversion'] = ' ';
+$string['noactivepolicies'] = '       ';
+$string['nofiltersapplied'] = '  ';
+$string['nopermissiontoagreedocs'] = '      ';
+$string['nopermissiontoagreedocs_desc'] = '            <br />              ';
+$string['nopermissiontoagreedocsbehalf'] = '           ';
+$string['nopermissiontoagreedocsbehalf_desc'] = '                 {$a}:';
+$string['nopermissiontoagreedocscontact'] = '  ';
+$string['nopermissiontoviewpolicyversion'] = '         ';
+$string['nopolicies'] = '          ';
+$string['selectpolicyandversion'] = '        ';
+$string['steppolicies'] = ' {$a->numpolicy}   {$a->totalpolicies}';
+$string['pluginname'] = '';
+$string['policiesagreements'] = '  ';
+$string['policy:accept'] = '   ';
+$string['policy:acceptbehalf'] = '       ';
+$string['policy:managedocs'] = ' ';
+$string['policy:viewacceptances'] = '   ';
+$string['policydocaudience'] = ' ';
+$string['policydocaudience0'] = ' ';
+$string['policydocaudience1'] = ' ';
+$string['policydocaudience2'] = '';
+$string['policydoccontent'] = ' ';
+$string['policydochdrpolicy'] = '';
+$string['policydochdrversion'] = ' ';
+$string['policydocname'] = '';
+$string['policydocoptional'] = ' ';
+$string['policydocoptionalyes'] = '';
+$string['policydocoptionalno'] = '';
+$string['policydocrevision'] = '';
+$string['policydocsummary'] = '';
+$string['policydocsummary_help'] = '                     ';
+$string['policydoctype'] = '';
+$string['policydoctype0'] = ' ';
+$string['policydoctype1'] = ' ';
+$string['policydoctype2'] = '  ';
+$string['policydoctype99'] = ' ';
+$string['policydocuments'] = ' ';
+$string['policynamedversion'] = ' {$a->name}  {$a->revision} - {$a->id})';
+$string['policypriorityagreement'] = '     ';
+$string['policyversionacceptedinbehalf'] = '         ';
+$string['policyversionacceptedinotherlang'] = '           ';
+$string['previousversions'] = '{$a}  ';
+$string['privacy:metadata:acceptances'] = '      ';
+$string['privacy:metadata:acceptances:policyversionid'] = '         ';
+$string['privacy:metadata:acceptances:userid'] = '        ';
+$string['privacy:metadata:acceptances:status'] = '    ';
+$string['privacy:metadata:acceptances:lang'] = '          ';
+$string['privacy:metadata:acceptances:usermodified'] = '              ';
+$string['privacy:metadata:acceptances:timecreated'] = '        ';
+$string['privacy:metadata:acceptances:timemodified'] = '       ';
+$string['privacy:metadata:acceptances:note'] = '             ';
+$string['privacy:metadata:subsystem:corefiles'] = '           ';
+$string['privacy:metadata:versions'] = '  ';
+$string['privacy:metadata:versions:name'] = '    ';
+$string['privacy:metadata:versions:type'] = ' ';
+$string['privacy:metadata:versions:audience'] = '        ';
+$string['privacy:metadata:versions:archived'] = '     ';
+$string['privacy:metadata:versions:usermodified'] = '     ';
+$string['privacy:metadata:versions:timecreated'] = '         ';
+$string['privacy:metadata:versions:timemodified'] = '         ';
+$string['privacy:metadata:versions:policyid'] = '       ';
+$string['privacy:metadata:versions:revision'] = '        ';
+$string['privacy:metadata:versions:summary'] = '       ';
+$string['privacy:metadata:versions:summaryformat'] = '     ';
+$string['privacy:metadata:versions:content'] = '       ';
+$string['privacy:metadata:versions:contentformat'] = '     ';
+$string['privacysettings'] = ' ';
+$string['readpolicy'] = '   {$a}';
+$string['refertofullpolicytext'] = '     {$a}        ';
+$string['response'] = '';
+$string['responseby'] = '';
+$string['responseon'] = '';
+$string['revokeacknowledgement'] = '                ';
+$string['save'] = '';
+$string['saveasdraft'] = '  ';
+$string['selectuser'] = '  {$a}';
+$string['selectusersforconsent'] = '       ';
+$string['settodraft'] = '   ';
+$string['status'] = ' ';
+$string['statusformtitleaccept'] = ' ';
+$string['statusformtitledecline'] = ' ';
+$string['statusformtitlerevoke'] = ' ';
+$string['statusinfo'] = '                            ';
+$string['status0'] = '';
+$string['status1'] = '';
+$string['status2'] = '';
+$string['useracceptanceactionaccept'] = '';
+$string['useracceptanceactionacceptone'] = ' {$a}';
+$string['useracceptanceactionacceptpending'] = '  ';
+$string['useracceptanceactiondecline'] = '';
+$string['useracceptanceactiondeclineone'] = ' {$a}';
+$string['useracceptanceactiondeclinepending'] = '  ';
+$string['useracceptanceactiondetails'] = '';
+$string['useracceptanceactionrevoke'] = '';
+$string['useracceptanceactionrevokeall'] = '  ';
+$string['useracceptanceactionrevokeone'] = '   {$a}';
+$string['useracceptancecount'] = '{$a->agreedcount}  {$a->userscount} ({$a->percent}%)';
+$string['useracceptancecountna'] = '';
+$string['useracceptances'] = ' ';
+$string['userpolicysettings'] = '';
+$string['usersaccepted'] = '';
+$string['viewarchived'] = '  ';
+$string['viewconsentpageforuser'] = '      {$a}';
