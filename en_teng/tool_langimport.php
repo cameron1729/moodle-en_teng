@@ -50,6 +50,7 @@ $string['uninstallconfirm'] = '    
 $string['updatelangs'] = '    ';
 $string['updatelangsnote'] = '                            \'{$a->taskname}\'      ';
 $string['privacy:metadata'] = '         ';
+// Keep these instructions in Latin script so they are readable before the font is installed.
 $string['readme'] = 'This language pack writes Moodle\'s English interface in Tolkien\'s Tengwar script. It uses Private Use Area characters and needs the **FreeMonoTengwar** font to display them.
 
 Complete the font setup before selecting English (Tengwar) as your preferred language.
